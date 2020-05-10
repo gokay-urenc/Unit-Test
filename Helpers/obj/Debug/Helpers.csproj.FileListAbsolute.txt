@@ -1,0 +1,6 @@
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\obj\Debug\Helpers.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\bin\Debug\Helpers.exe.config
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\bin\Debug\Helpers.exe
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\bin\Debug\Helpers.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\obj\Debug\Helpers.exe
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers\obj\Debug\Helpers.pdb

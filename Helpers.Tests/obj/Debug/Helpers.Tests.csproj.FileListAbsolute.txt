@@ -1,0 +1,16 @@
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\obj\Debug\Helpers.Tests.csprojAssemblyReference.cache
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Helpers.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Helpers.Tests.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Helpers.exe
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Helpers.pdb
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Helpers.exe.config
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\obj\Debug\Helpers.Tests.csproj.CopyComplete
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\obj\Debug\Helpers.Tests.dll
+D:\Applications\C#\Unit Testing\Unit_Test_1\Helpers.Tests\obj\Debug\Helpers.Tests.pdb
